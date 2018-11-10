@@ -34,12 +34,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Traffic Simulation"
+  tag = "Traffic Simulation"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Short Term Forecast"
+  tag = "Short Term Forecast"
 
 +++
 

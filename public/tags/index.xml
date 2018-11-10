@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on Andres Ladino, Researcher</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on Andres Ladino, Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,36 +22,45 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/demo/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Short Term Forecast</title>
+      <link>/tags/short-term-forecast/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/short-term-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Simulation</title>
+      <link>/tags/traffic-simulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/traffic-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>regression</title>
       <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
       <description></description>

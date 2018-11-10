@@ -18,13 +18,30 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Intern"
+  company = "International Business Machines IBM "
+  company_url = "https://www.ibm.com/"
+  location = "Bogota, Colombia"
+  date_start = "2007-08-01"
+  date_end = "2007-12-01"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+
+[[experience]]
+  title = "Process Analyst"
+  company = "International Business Machines IBM "
+  company_url = "https://www.ibm.com/"
+  location = "Bogota, Colombia"
+  date_start = "2008-01-01"
+  date_end = "2009-04-30"
   description = """
   Responsibilities include:
   
@@ -34,12 +51,22 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Adjunct Professor"
+  company = "Pontifical Xavierian University"
+  company_url = "https://www.javeriana.edu.co/home"
+  location = "Bogota, Colombia"
+  date_start = "2010-01-01"
+  date_end = "2011-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Instructor Professor"
+  company = "Pontifical Xavierian University"
+  company_url = "https://www.javeriana.edu.co/home"
+  location = "Bogota, Colombia"
+  date_start = "2012-01-01"
+  date_end = "2014-07-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++

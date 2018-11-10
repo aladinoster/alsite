@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Andres Ladino, Researcher</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Andres Ladino, Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -36,8 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Andres Ladino is a postdoctoral researcher in Automatic Control at the IFSTTAR Laboratory. His recent research interests include networked control systems, intelligent transportation systems and artificial intelligence. He works at LICIT group, which develops traffic flow theory, and traffic simulation.
-He is also passioned about the Data Science community and the recent work developed around reproducible research. Fan of #rstats.</description>
+      <description>Biography Andres Ladino is a postdoctoral researcher in Automatic Control at the IFSTTAR Laboratory. His recent research interests include networked control systems, intelligent transportation systems and artificial intelligence. Previously, he has worked on his PhD at INRIA/CNRS in development of Short-term Forecasting and estimation techniques for traffic variables. Currently, he works at LICIT group working on control techniques for connected and automated vehicles, in this team he develops traffic flow theory, and traffic simulation algorithms.</description>
     </item>
     
     <item>
@@ -118,9 +117,9 @@ He is also passioned about the Data Science community and the recent work develo
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>I was a teaching instructor for the following courses at Pontifical Xaverian University within the Electronics department:
+ Dynamical Systems Principles Automatic Control Theory Automatic Control Laboratory  I am instructor for some sessions in collaboration with Angelo Furno the following courses at ENTPE:
+ Intelligent Transportation Systems - Part II  </description>
     </item>
     
     <item>

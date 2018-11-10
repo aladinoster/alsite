@@ -13,16 +13,18 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+# This is an example of using the *custom* widget to create your own homepage section.
+
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+I was a teaching instructor for the following courses at [Pontifical Xaverian University](http://www.javeriana.edu.co) within the [Electronics department](https://www.javeriana.edu.co/carrera-ingenieria-electronica):
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Dynamical Systems Principles
+- Automatic Control Theory 
+- Automatic Control Laboratory
+
+I am instructor for some sessions in collaboration with [Angelo Furno](http://people.licit-lyon.eu/furno/) the following courses at [ENTPE](https://www.entpe.fr):
+
+- Intelligent Transportation Systems - Part II
+
