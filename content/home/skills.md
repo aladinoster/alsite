@@ -22,27 +22,39 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "cube"
+  icon_pac = "fab"
+  name = "C++"
+  description = "Intermediate: Hardware development"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Advanced: PyViz, Pandas"
+  description = "Advanced: PyViz, Pandas, Keras"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced: Tidyverse (ggplot,dplyr,xlread)"
+  description = "Advanced: Tidyverse"
   
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Version control"
-  description = "100%"  
+  description = "Advanced"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Analysis"
+  description = "Intermediate: Importing, DataViz, Modeling"
+  
+[[feature]]
+  icon = "handshake"
+  icon_pack = "fas"
+  name = "Optimization/Control"
+  description = "Advanced: Predictive, Non-linear, Gurobi, CVX"  
 
 +++

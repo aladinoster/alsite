@@ -57,7 +57,9 @@ date_format = "January 2006"
   location = "Bogota, Colombia"
   date_start = "2010-01-01"
   date_end = "2011-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught in electronic engineering program. Associated Courses
+  * Control laboratory 
+  """
 
 [[experience]]
   title = "Instructor Professor"
@@ -66,7 +68,22 @@ date_format = "January 2006"
   location = "Bogota, Colombia"
   date_start = "2012-01-01"
   date_end = "2014-07-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  description = """Taught in electronic engineering program. Associated Courses:
+  * Control laboratory 
+  * Dynamic Systems Theory
+  * Automatic Control Theory
+  Program Assistant: Participated in program certification. 
+  Communication's leader: Project ADDE SALEM
+  """
+  
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "IFSTTAR"
+  company_url = "http://www.ifsttar.fr/en/welcome/"
+  location = "Lyon, France"
+  date_start = "2018-01-01"
+  date_end = "2019-12-31"
+  description = """Postdoctoral Researcher for projects C-The Difference, ENSEMBLE
+  """
 
 +++
