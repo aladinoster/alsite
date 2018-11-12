@@ -1,0 +1,13 @@
+# Project 2: Vehicle Platooning
+
+## Objectives {-}
+
+This project consists in works based on [@Grandinetti2015]
+
+## Description {-}
+
+## Sources {-}
+
+- [Simulation results - Github](https://github.com/aladinoster/density-reconstruction)
+
+- Check [@Duret2019] available [Link](http://bit.ly/Hierarchical_ISTTT)
