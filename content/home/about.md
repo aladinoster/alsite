@@ -22,12 +22,12 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "MSc in Electronic Engineering"
+  course = "ME in Electronic Engineering"
   institution = "Pontificia Universidad Javeriana"
   year = 2012
 
 [[education.courses]]
-  course = "BSc in Electronic Engineering"
+  course = "BE in Electronic Engineering"
   institution = "Pontificia Universidad Javeriana"
   year = 2008
  
