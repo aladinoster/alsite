@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalman on Andres Ladino, Researcher</title>
+    <link>/tags/kalman/</link>
+    <description>Recent content in Kalman on Andres Ladino, Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/kalman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A real time forecasting tool for dynamic travel time from clustered time series</title>
+      <link>/publication/tr-c-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tr-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel time forecasting from clustered time series via optimal fusion strategy</title>
+      <link>/publication/ecc-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ecc-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

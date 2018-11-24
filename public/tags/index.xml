@@ -22,11 +22,47 @@
     </item>
     
     <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delayed Systems</title>
+      <link>/tags/delayed-systems/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/delayed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalman</title>
+      <link>/tags/kalman/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Control</title>
+      <link>/tags/predictive-control/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/predictive-control/</guid>
       <description></description>
     </item>
     
@@ -40,11 +76,38 @@
     </item>
     
     <item>
+      <title>Sensor Fusion</title>
+      <link>/tags/sensor-fusion/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Short Term Forecast</title>
       <link>/tags/short-term-forecast/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/short-term-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switched Systems</title>
+      <link>/tags/switched-systems/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/switched-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Estimation</title>
+      <link>/tags/traffic-estimation/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/traffic-estimation/</guid>
       <description></description>
     </item>
     
@@ -58,15 +121,6 @@
     </item>
     
     <item>
-      <title>delays</title>
-      <link>/tags/delays/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/delays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
@@ -76,29 +130,11 @@
     </item>
     
     <item>
-      <title>predictive control</title>
-      <link>/tags/predictive-control/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>switched systems</title>
-      <link>/tags/switched-systems/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/switched-systems/</guid>
       <description></description>
     </item>
     

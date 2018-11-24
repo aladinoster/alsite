@@ -38,7 +38,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags =  ["Short Term Forecast","Sensor Fusion", "Clustering","Kalman"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S0968090X17301328?via%3Dihub"
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.trc.2017.05.002"

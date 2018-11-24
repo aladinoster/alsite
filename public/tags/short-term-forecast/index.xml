@@ -21,5 +21,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A real time forecasting tool for dynamic travel time from clustered time series</title>
+      <link>/publication/tr-c-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tr-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel time forecasting from clustered time series via optimal fusion strategy</title>
+      <link>/publication/ecc-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ecc-16/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
