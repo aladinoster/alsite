@@ -29,9 +29,7 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Strategic Outsourcing.  Business case solution analysis and support 
   """
 
 
@@ -45,9 +43,7 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Documentation of Business IT Processes for IT Delivery Services
   """
 
 [[experience]]
@@ -58,6 +54,7 @@ date_format = "January 2006"
   date_start = "2010-01-01"
   date_end = "2011-12-31"
   description = """Taught in electronic engineering program. Associated Courses
+
   * Control laboratory 
   """
 
@@ -69,9 +66,11 @@ date_format = "January 2006"
   date_start = "2012-01-01"
   date_end = "2014-07-31"
   description = """Taught in electronic engineering program. Associated Courses:
+
   * Control laboratory 
   * Dynamic Systems Theory
   * Automatic Control Theory
+
   Program Assistant: Participated in program certification. 
   Communication's leader: Project ADDE SALEM
   """
@@ -84,6 +83,10 @@ date_format = "January 2006"
   date_start = "2018-01-01"
   date_end = "2019-12-31"
   description = """Postdoctoral Researcher for projects C-The Difference, ENSEMBLE
+
+  * Traffic Simulation 
+  * Connected & Automated Vehicles 
+  * Analysis of truck platooning strategies in traffic
   """
 
 +++

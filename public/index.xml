@@ -101,27 +101,39 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Density and flow reconstruction in urban traffic networks using heterogeneous data sources</title>
+      <link>/publication/ecc-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/ecc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel time forecasting from clustered time series via optimal filtering fusion</title>
+      <link>/talk/ipam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/ipam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A real time forecasting tool for dynamic travel time from clustered time series</title>
+      <link>/publication/tr-c-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tr-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel time forecasting from clustered time series via optimal fusion strategy</title>
+      <link>/publication/ecc-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ecc-16/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -363,23 +375,12 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <title>On the stability of predictive controllers for linear systems with variable time delays</title>
+      <link>/publication/acc-13/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/acc-13/</guid>
+      <description></description>
     </item>
     
     <item>

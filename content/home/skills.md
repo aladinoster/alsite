@@ -22,6 +22,13 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "angle-double-right"
+  icon_pac = "fab"
+  name = "MATLAB"
+  description = "Advanced: Hardware / Control toolbox"
+
+
+[[feature]]
   icon = "cube"
   icon_pac = "fab"
   name = "C++"
@@ -31,7 +38,7 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Advanced: PyViz, Pandas, Keras"
+  description = "Intermediate: PyViz, Pandas, Keras"
 
 [[feature]]
   icon = "r-project"

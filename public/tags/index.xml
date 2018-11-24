@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>delays</title>
+      <link>/tags/delays/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/delays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
@@ -67,11 +76,29 @@
     </item>
     
     <item>
+      <title>predictive control</title>
+      <link>/tags/predictive-control/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>switched systems</title>
+      <link>/tags/switched-systems/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/switched-systems/</guid>
       <description></description>
     </item>
     

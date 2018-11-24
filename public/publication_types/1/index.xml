@@ -7,18 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <title>Density and flow reconstruction in urban traffic networks using heterogeneous data sources</title>
+      <link>/publication/ecc-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ecc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel time forecasting from clustered time series via optimal fusion strategy</title>
+      <link>/publication/ecc-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ecc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the stability of predictive controllers for linear systems with variable time delays</title>
+      <link>/publication/acc-13/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/acc-13/</guid>
+      <description></description>
     </item>
     
   </channel>

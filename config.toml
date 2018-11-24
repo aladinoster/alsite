@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "andres.ladino@ifsttar.fr"
+  email = "contact@andresladino.com"
   address = "25, avenue François Mitterrand, Cité des Mobilités, Case 24 , B408, F-69675 Bron Cedex"
   office_hours = "Monday-Friday 8:00 to 17:00 or email for appointment"
   phone = "+33 6 60 41 73 08"

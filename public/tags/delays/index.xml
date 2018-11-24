@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delays on Andres Ladino, Researcher</title>
+    <link>/tags/delays/</link>
+    <description>Recent content in delays on Andres Ladino, Researcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/delays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the stability of predictive controllers for linear systems with variable time delays</title>
+      <link>/publication/acc-13/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acc-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
