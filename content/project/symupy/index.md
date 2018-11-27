@@ -10,7 +10,7 @@ summary = "A Python interface for integration of Automation within Simulators"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Traffic Simulation"]
+tags = ["Traffic Simulation", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/symuvia/symupy"
