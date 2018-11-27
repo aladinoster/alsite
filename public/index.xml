@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Hierarchical multi-injection strategy and platoon manoeuvres at network junctions</title>
+      <link>/publication/mfts-18/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mfts-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tools for Research reproducibility</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
@@ -62,11 +71,20 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>SPEEDD</title>
-      <link>/project/external-project/</link>
+      <title>Ensemble</title>
+      <link>/project/ensemble/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPEEDD</title>
+      <link>/project/speed/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/speed/</guid>
       <description></description>
     </item>
     
@@ -138,10 +156,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>SymuPy</title>
-      <link>/project/internal-project/</link>
+      <link>/project/symupy/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/project/internal-project/</guid>
+      <guid>/project/symupy/</guid>
       <description>&lt;p&gt;SymuPy is a project devoted to create an API connection with the SymuVia platform to integrate automation capabilities in the specific desired scenarios such as vehicle platooning.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LqBD8nKiHN8&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/LqBD8nKiHN8/0.jpg&#34; alt=&#34;SymuVia Demo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;

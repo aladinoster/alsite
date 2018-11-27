@@ -1,5 +1,31 @@
 [
   {
+    "authors": [
+      "Duret, A",
+      "Ladino, A",
+      "Wang, M"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1543186800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1543186800,
+    "objectID": "180f4414d6877da4beaf9c793fe080c2",
+    "permalink": "/publication/mfts-18/",
+    "publishdate": "2018-11-26T00:00:00+01:00",
+    "relpermalink": "/publication/mfts-18/",
+    "section": "publication",
+    "summary": "During the recent years, connected automated vehicles (CAV) have shown to be a crucial technology for the upcoming developments towards the improvement of traffic conditions. Considerable efforts have been concentrated in the development of automated strategies for longitudinal formation, a.k.a. cooperative adaptive cruise control (CACC), where inter-vehicle distance can be shortened, in order to maximize network flow and improve fuel efficiency. Nevertheless, one challenge prevailing in the design of such strategies is their robustness and flexibility to a variety of network configurations and traffic conditions, which implies CAV platoons should allow active platooning manoeuvers such as split, merge, join according to interactions with conventional vehicles in the network.",
+    "tags": [
+      "Truck Platooning",
+      "Connected \u0026 Automated Vehicles"
+    ],
+    "title": "Hierarchical multi-injection strategy and platoon manoeuvres at network junctions",
+    "type": "publication"
+  },
+  {
     "authors": null,
     "categories": [
       "R",
@@ -34,12 +60,34 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1541804400,
-    "objectID": "d1311ddf745551c9e117aa4bb7e28516",
-    "permalink": "/project/external-project/",
+    "objectID": "d37ff57d947f77965df9552739958496",
+    "permalink": "/project/ensemble/",
     "publishdate": "2018-11-10T00:00:00+01:00",
-    "relpermalink": "/project/external-project/",
+    "relpermalink": "/project/ensemble/",
     "section": "project",
-    "summary": "Eliminating or mitigating an anticipated problem, or capitalizing on a forecast opportunity, can substantially improve our quality of life, and prevent environmental and economic damage. At the environmental level, changing traffic-light priority and speed limits to avoid traffic congestions will reduce carbon emissions, optimize transportation and increase the productivity of commuters. At the business level, making smart decisions ahead of time can become a differentiator leading to significant competitive advantage. ",
+    "summary": "Truck platooning has a great potential to improve road safety, reduce emissions and increase transport efficiency. Significant advances in platooning technology have been made in the last decade, but to achieve the next step towards deployment of truck platooning, an integral multi-brand approach is required. ",
+    "tags": [
+      "Truck Platooning",
+      "Connected \u0026 Automated Vehicles"
+    ],
+    "title": "Ensemble",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1541804400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541804400,
+    "objectID": "643fd1b9bdb03d313aaa4cbcf7f2d743",
+    "permalink": "/project/speed/",
+    "publishdate": "2018-11-10T00:00:00+01:00",
+    "relpermalink": "/project/speed/",
+    "section": "project",
+    "summary": "SPEEDD developed a prototype for proactive event-driven decision-making: decisions were triggered by forecasting events-whether they correspond to problems or opportunities-instead of reacting to them once they happen.",
     "tags": [
       "Short Term Forecast",
       "Machine Learning"
@@ -136,7 +184,7 @@
     "publishdate": "2017-10-01T00:00:00+02:00",
     "relpermalink": "/publication/tr-c-17/",
     "section": "publication",
-    "summary": "In this paper, we consider the problem of joint reconstruction of flow and density in a urban traffic network using heterogeneous sources of information. The traffic net- work is modeled within the framework of macroscopic traffic models, where we adopt Lighthill-Whitham-Richards model (LWR) conservation equation characterized by a piecewise linear fundamental diagram. The estimation problem considers two key principles. First, the error minimization between the measured and reconstructed flows and densities, and second the equilibrium state of the network which establishes flow propagation within the network. Both principles are integrated together with the traffic model constraints established by the supply/demand paradigm. Finally the problem is casted as a constrained quadratic optimization with equality constraints in order to shrink the feasible region of estimated variables. Some simulation scenarios based on synthetic data for a manhattan grid network are provided in order to validate the performance of the proposed algorithm.",
+    "summary": "This paper addresses the problem of dynamic travel time (DTT) forecasting within highway traffic networks using speed measurements. Definitions, computational details and properties in the construction of DTT are provided. DTT is dynamically clustered using a K-means algorithm and then information on the level and the trend of the centroid of the clusters is used to devise a predictor computationally simple to be implemented. To take into account the lack of information in the cluster assignment for the new predicted values, a weighted average fusion based on a similarity measurement is proposed to combine the predictions of each model. The algorithm is deployed in a real time application and the performance is evaluated using real traffic data from the South Ring of the Grenoble city in France.",
     "tags": [
       "Short Term Forecast",
       "Sensor Fusion",
@@ -184,10 +232,10 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1461708000,
-    "objectID": "8f66d660a9a2edc2d08e68cc30f701f7",
-    "permalink": "/project/internal-project/",
+    "objectID": "9f055d056873b0d4ac742cb03f24887d",
+    "permalink": "/project/symupy/",
     "publishdate": "2016-04-27T00:00:00+02:00",
-    "relpermalink": "/project/internal-project/",
+    "relpermalink": "/project/symupy/",
     "section": "project",
     "summary": "A Python interface for integration of Automation within Simulators",
     "tags": [

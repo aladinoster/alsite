@@ -41,5 +41,9 @@ filter_default = 0
   name = "Short Term Forecast"
   tag = "Short Term Forecast"
 
+[[filter]]
+  name = "Truck Platooning"
+  tag = "Truck Platooning"
+
 +++
 
