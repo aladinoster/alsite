@@ -14,10 +14,10 @@
     
     <item>
       <title>SymuPy</title>
-      <link>/project/internal-project/</link>
+      <link>/project/symupy/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/project/internal-project/</guid>
+      <guid>/project/symupy/</guid>
       <description>SymuPy is a project devoted to create an API connection with the SymuVia platform to integrate automation capabilities in the specific desired scenarios such as vehicle platooning.</description>
     </item>
     

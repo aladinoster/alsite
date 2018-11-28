@@ -10,7 +10,7 @@ summary = "A Python interface for integration of Automation within Simulators"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Traffic Simulation"]
+tags = ["Traffic Simulation", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/symuvia/symupy"
@@ -26,7 +26,7 @@ external_link = "https://github.com/symuvia/symupy"
   focal_point = "Smart"
 +++
 
-SymuPy is a project devoted to create an API connection with the SymuVia platform to integrate automation capabilities in the specific desired scenarios such as vehicle platooning. 
+SymuPy is a project devoted to create an API connection with the SymuVia platform to integrate automation capabilities in the specific desired scenarios such as vehicle platooning.
 
 
 [![SymuVia Demo](https://img.youtube.com/vi/LqBD8nKiHN8/0.jpg)](https://www.youtube.com/watch?v=LqBD8nKiHN8)

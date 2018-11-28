@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/mfts-18/</loc>
+      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2018-11-10T21:13:14-05:00</lastmod>
     </url>
@@ -12,7 +20,15 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
+      <loc>/project/ensemble/</loc>
+      <lastmod>2018-11-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/speed/</loc>
       <lastmod>2018-11-10T00:00:00+01:00</lastmod>
     </url>
     
@@ -108,7 +124,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
+      <loc>/project/symupy/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -133,7 +149,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -178,6 +194,15 @@
     
       <loc>/tags/clustering/</loc>
       <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/connected-automated-vehicles/</loc>
+      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -240,7 +265,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -328,6 +353,15 @@
     
       <loc>/tags/traffic-simulation/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/truck-platooning/</loc>
+      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
