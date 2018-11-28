@@ -239,7 +239,8 @@
     "section": "project",
     "summary": "A Python interface for integration of Automation within Simulators",
     "tags": [
-      "Traffic Simulation"
+      "Traffic Simulation",
+      "Connected \u0026 Automated Vehicles"
     ],
     "title": "SymuPy",
     "type": "project"
