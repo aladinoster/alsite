@@ -1,8 +1,8 @@
 +++
 title = "ITS - II "
 
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
+date = 2018-11-28T00:00:00
+# lastmod = 2018-11-28T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
@@ -17,7 +17,9 @@ linktitle = "Introduction"
 
 ## ITS for Smart Mobility 
 
-Direct [link](https://aladinoster.github.io/project-its-ii/)
+See more about the projects [here](https://aladinoster.github.io/project-its-ii/)
+
+{{< figure library="1" src="01-car.jpg" title="" >}}
 
 ## Context
 

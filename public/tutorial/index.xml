@@ -15,7 +15,7 @@
     <item>
       <title>SymuPy</title>
       <link>/tutorial/simupy/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tutorial/simupy/</guid>
       <description> Basic usage </description>
@@ -24,12 +24,11 @@
     <item>
       <title>ITS - II </title>
       <link>/tutorial/its2prj/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tutorial/its2prj/</guid>
-      <description>ITS for Smart Mobility Direct link
-Context Traffic congestion on urban roads is a problem of great interest nowadays since it strongly affects security and pollution. Workfoce centralization, population and economic growth alongside with continuous urbanization are the main causes of traffic congestion. As cities strive to update/expand the current infrastructures the development of Information Technologies bring new possiblities as an alternative solution for transportation systems.
-The current project aims to explore some of the new technologies used in the so called Intelligent Transportation Systems (ITS).</description>
+      <description>ITS for Smart Mobility See more about the projects here
+  Context Traffic congestion on urban roads is a problem of great interest nowadays since it strongly affects security and pollution. Workfoce centralization, population and economic growth alongside with continuous urbanization are the main causes of traffic congestion. As cities strive to update/expand the current infrastructures the development of Information Technologies bring new possiblities as an alternative solution for transportation systems.</description>
     </item>
     
   </channel>
