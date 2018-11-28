@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Andres Ladino, Researcher</title>
+    <title>Andres Ladino, Researcher</title>
     <link>/tutorial/</link>
-    <description>Recent content in Overview on Andres Ladino, Researcher</description>
+    <description>Recent content on Andres Ladino, Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,14 +13,23 @@
     
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <title>SymuPy</title>
+      <link>/tutorial/simupy/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tutorial/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <guid>/tutorial/simupy/</guid>
+      <description> Basic usage </description>
+    </item>
+    
+    <item>
+      <title>ITS - II </title>
+      <link>/tutorial/its2prj/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tutorial/its2prj/</guid>
+      <description>ITS for Smart Mobility Direct link
+Context Traffic congestion on urban roads is a problem of great interest nowadays since it strongly affects security and pollution. Workfoce centralization, population and economic growth alongside with continuous urbanization are the main causes of traffic congestion. As cities strive to update/expand the current infrastructures the development of Information Technologies bring new possiblities as an alternative solution for transportation systems.
+The current project aims to explore some of the new technologies used in the so called Intelligent Transportation Systems (ITS).</description>
     </item>
     
   </channel>

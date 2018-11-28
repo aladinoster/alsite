@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "SymuPy"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,18 +9,11 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
+linktitle = "Basic use"
 [menu.tutorial]
-  parent = "Example Topic"
+  parent = "SymuPy"
   weight = 1
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+## Basic usage 
 
-## Tip 1
-
-...
-
-## Tip 2
-
-...
