@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/isttt-19/</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/simupy/</loc>
       <lastmod>2018-11-28T00:00:00+01:00</lastmod>
     </url>
@@ -149,7 +157,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -202,7 +210,7 @@
     <url>
     
       <loc>/tags/connected-automated-vehicles/</loc>
-      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -265,7 +273,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +369,16 @@
     <url>
     
       <loc>/tags/truck-platooning/</loc>
-      <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/vehicle-merging/</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

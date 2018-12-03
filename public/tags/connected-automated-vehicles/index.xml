@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/connected-automated-vehicles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Hierarchical Approach For Splitting Truck Platoons Near Network Discontinuities</title>
+      <link>/publication/isttt-19/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/isttt-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical multi-injection strategy and platoon manoeuvres at network junctions</title>

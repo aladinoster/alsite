@@ -1,5 +1,32 @@
 [
   {
+    "authors": [
+      "Duret, Aurélien",
+      "Wang, Meng",
+      "Ladino, Andres"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1543532400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1543532400,
+    "objectID": "535e15a2a54d1a368698a93cf533d122",
+    "permalink": "/publication/isttt-19/",
+    "publishdate": "2018-11-30T00:00:00+01:00",
+    "relpermalink": "/publication/isttt-19/",
+    "section": "publication",
+    "summary": "Truck platooning has attracted substantial attention due to its pronounced benefits in saving energy and promising business model in freight transportation. However, one prominent challenge for the successful implementation of truck platooning is the safe and efficient interaction with surrounding traffic, especially at network discontinuities where mandatory lane changes may lead to the decoupling of truck platoons. This contribution puts forward an efficient method for splitting a platoon of vehicles near network merges. A model-based bi-level control strategy is proposed. A supervisory tactical strategy based on a first-order car-following model with bounded acceleration is designed to maximize the flow at merge discontinuities. The decisions taken at this level include optimal vehicle order after the merge, new equilibrium gaps of automated trucks at the merging point, and anticipation horizon that the platoon members start to track the new equilibrium gaps. The lower-level operational layer uses a third-order longitudinal dynamics model to compute the optimal truck accelerations so that new equilibrium gaps have been created when merging vehicles start to change lane and the transient maneuvers are efficient, safe and comfortable. The tactical decisions are derived from an analytic car-following model and the operational accelerations are controlled via model predictive control with guaranteed stability. Simulation experiments are provided in order to test the feasibility and demonstrate the performance and robustness of the proposed strategy.",
+    "tags": [
+      "Truck Platooning",
+      "Connected \u0026 Automated Vehicles",
+      "Vehicle Merging"
+    ],
+    "title": "A Hierarchical Approach For Splitting Truck Platoons Near Network Discontinuities",
+    "type": "publication"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " Basic usage ",
@@ -39,9 +66,9 @@
   },
   {
     "authors": [
-      "Duret, A",
-      "Ladino, A",
-      "Wang, M"
+      "Duret, Aurélien",
+      "Ladino, Andres",
+      "Wang, Meng"
     ],
     "categories": null,
     "content": "",
