@@ -1,5 +1,32 @@
 [
   {
+    "authors": null,
+    "categories": [
+      "ITS-II",
+      "English"
+    ],
+    "content": " Please find the slides from today’s class at:\n Part I: Slides Estimation Part II: Slides Control  ",
+    "date": 1544061600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1544061600,
+    "objectID": "981e8c976fd61fc91e2f77457b0a2e61",
+    "permalink": "/post/2018-12-05-slides-its-2/",
+    "publishdate": "2018-12-05T21:00:00-05:00",
+    "relpermalink": "/post/2018-12-05-slides-its-2/",
+    "section": "post",
+    "summary": " Please find the slides from today’s class at:\n Part I: Slides Estimation Part II: Slides Control  ",
+    "tags": [
+      "Traffic Control",
+      "Signalized Control",
+      "Traffic Estimation",
+      "Sensor Fusion"
+    ],
+    "title": "Slides ITS for Smart Mobility",
+    "type": "post"
+  },
+  {
     "authors": [
       "Duret A.",
       "Wang M.",
@@ -89,31 +116,6 @@
     ],
     "title": "Hierarchical multi-injection strategy and platoon manoeuvres at network junctions",
     "type": "publication"
-  },
-  {
-    "authors": null,
-    "categories": [
-      "ITS-II",
-      "English"
-    ],
-    "content": " Please find the slides from today’s class at:\n Part I: Slides Estimation Part II: Slides Control  ",
-    "date": 1541902394,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1541902394,
-    "objectID": "981e8c976fd61fc91e2f77457b0a2e61",
-    "permalink": "/post/2018-12-05-slides-its-2/",
-    "publishdate": "2018-11-10T21:13:14-05:00",
-    "relpermalink": "/post/2018-12-05-slides-its-2/",
-    "section": "post",
-    "summary": " Please find the slides from today’s class at:\n Part I: Slides Estimation Part II: Slides Control  ",
-    "tags": [
-      "Traffic Control",
-      "Traffic Estimation"
-    ],
-    "title": "Slides ITS for Smart Mobility",
-    "type": "post"
   },
   {
     "authors": null,

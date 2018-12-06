@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/2018-12-05-slides-its-2/</loc>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/isttt-19/</loc>
       <lastmod>2018-11-30T00:00:00+01:00</lastmod>
     </url>
@@ -30,14 +38,6 @@
     
       <loc>/publication/mfts-18/</loc>
       <lastmod>2018-11-26T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2018-12-05-slides-its-2/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -236,7 +236,7 @@
     <url>
     
       <loc>/categories/english/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -245,7 +245,7 @@
     <url>
     
       <loc>/categories/its-ii/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,7 +317,7 @@
     <url>
     
       <loc>/tags/sensor-fusion/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -327,6 +327,15 @@
     
       <loc>/tags/short-term-forecast/</loc>
       <lastmod>2018-11-10T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/signalized-control/</loc>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -368,7 +377,7 @@
     <url>
     
       <loc>/tags/traffic-control/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -377,7 +386,7 @@
     <url>
     
       <loc>/tags/traffic-estimation/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2018-12-05T21:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

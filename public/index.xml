@@ -11,6 +11,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Slides ITS for Smart Mobility</title>
+      <link>/post/2018-12-05-slides-its-2/</link>
+      <pubDate>Wed, 05 Dec 2018 21:00:00 -0500</pubDate>
+      
+      <guid>/post/2018-12-05-slides-its-2/</guid>
+      <description>
+
+
+&lt;p&gt;Please find the slides from today’s class at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Part I: &lt;a href=&#34;http://bit.ly/ITSIIS05E01&#34;&gt;Slides Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part II: &lt;a href=&#34;http://bit.ly/ITSIIS05E02&#34;&gt;Slides Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Hierarchical Approach For Splitting Truck Platoons Near Network Discontinuities</title>
       <link>/publication/isttt-19/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
@@ -89,23 +106,6 @@
       
       <guid>/publication/mfts-18/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Slides ITS for Smart Mobility</title>
-      <link>/post/2018-12-05-slides-its-2/</link>
-      <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-12-05-slides-its-2/</guid>
-      <description>
-
-
-&lt;p&gt;Please find the slides from today’s class at:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Part I: &lt;a href=&#34;http://bit.ly/ITSIIS05E01&#34;&gt;Slides Estimation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part II: &lt;a href=&#34;http://bit.ly/ITSIIS05E02&#34;&gt;Slides Control&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
