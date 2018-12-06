@@ -1,0 +1,16 @@
+---
+title: "Slides ITS for Smart Mobility"
+author: "Andres Ladino"
+date: 2018-11-10T21:13:14-05:00
+categories: ["ITS-II","English"]
+tags: ["Traffic Control", "Traffic Estimation"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Please find the slides from today's class at: 
+
+* Part I: [Slides Estimation](http://bit.ly/ITSIIS05E01)
+* Part II: [Slides Control](http://bit.ly/ITSIIS05E02)

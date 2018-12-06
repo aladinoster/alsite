@@ -43,6 +43,13 @@
 
 &lt;p&gt;See more about the projects &lt;a href=&#34;https://aladinoster.github.io/project-its-ii/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Please find the slides at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part I: &lt;a href=&#34;http://bit.ly/ITSIIS05E01&#34; target=&#34;_blank&#34;&gt;Slides Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part II: &lt;a href=&#34;http://bit.ly/ITSIIS05E02&#34; target=&#34;_blank&#34;&gt;Slides Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 
 
@@ -61,13 +68,16 @@
 
 &lt;p&gt;The current project aims to explore some of the new technologies used in the so called Intelligent Transportation Systems (ITS). They objective is to study to a certain level of detail some of the new traffic management systems that will conduct new ways of transportation in the XXI century. The general idea is based on the fact that information collected by sensors within traffic networks or in-vehicles sensors can collect information regarding the traffic condition, perform estimation of unknown traffic states and decide on specific actions to modify this state.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Specially, in this case the project will be focused in three main activities:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trafic signal design:&lt;/strong&gt; This projects aims to study how to optimally deal with the design of light cycles to optimize the traffic performance. Based on information collected by infrastructure based sensors the traffic state can be determined and specific decisions in terms on green/red light times can be dynamically adapted.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Connected &amp;amp; automated vehicles:&lt;/strong&gt;  New in-vechicle sensors create situations in which vehicles may exchange information to improve traffic conditions. This project aims to study control algorithms implemented in the V2V (Vehicle-vehicle) communication layer that can be used to design traffic decisions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Eco-driving:&lt;/strong&gt; Connectivity between vehicles and infrastructures will define future directions in transportation. Shared information in the V2I (Vehicle-infrastructure) I2V (Infrastructure-vehicle) communication layers can optimize traffic conditions in apects like fuel-efficiency.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Traffic variable reconstruction:&lt;/strong&gt; Sensors installed in traffic infrastructures provide information regarding the traffic state. Nevertheless the solution is not scalable to cover large cities due to the economical leverage required to deploy this technology. Algorithms to reconstruct traffic information may provide a  promising future for accurately determine the traffic state of a city. The aim of this project is to study how multiple sources of information can be integrated to reconstruct traffic variables within a city.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vehicle Platooning:&lt;/strong&gt;  New in-vechicle sensors create situations in which vehicles may exchange information to improve traffic conditions. This project aims to study control algorithms implemented in the V2V (Vehicle-vehicle) communication layer that can be used to design traffic decisions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Density reconstruction:&lt;/strong&gt; Sensors installed in traffic infrastructures provide information regarding the traffic state. Nevertheless the solution is not scalable to cover large cities due to the economical leverage required to deploy this technology. Algorithms to reconstruct traffic information may provide a  promising future for accurately determine the traffic state of a city. The aim of this project is to study how multiple sources of information can be integrated to reconstruct traffic variables within a city.&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -79,6 +89,23 @@
       
       <guid>/publication/mfts-18/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Slides ITS for Smart Mobility</title>
+      <link>/post/2018-12-05-slides-its-2/</link>
+      <pubDate>Sat, 10 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-12-05-slides-its-2/</guid>
+      <description>
+
+
+&lt;p&gt;Please find the slides from today’s class at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Part I: &lt;a href=&#34;http://bit.ly/ITSIIS05E01&#34;&gt;Slides Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part II: &lt;a href=&#34;http://bit.ly/ITSIIS05E02&#34;&gt;Slides Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -432,15 +459,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>On the stability of predictive controllers for linear systems with variable time delays</title>
-      <link>/publication/acc-13/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/acc-13/</guid>
-      <description></description>
     </item>
     
   </channel>

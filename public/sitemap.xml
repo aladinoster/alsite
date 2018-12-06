@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>/post/2018-12-05-slides-its-2/</loc>
+      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2018-11-10T21:13:14-05:00</lastmod>
     </url>
@@ -236,6 +244,15 @@
     
     <url>
     
+      <loc>/categories/its-ii/</loc>
+      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/kalman/</loc>
       <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -350,8 +367,17 @@
     
     <url>
     
+      <loc>/tags/traffic-control/</loc>
+      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/traffic-estimation/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
