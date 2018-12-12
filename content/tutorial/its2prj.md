@@ -23,6 +23,7 @@ Please find the slides at:
 
 * Part I: [Slides Estimation](http://bit.ly/ITSIIS05E01)
 * Part II: [Slides Control](http://bit.ly/ITSIIS05E02)
+* Part III: [Slides Platooning](http://bit.ly/ITSIIS12E01)
 
 {{< figure library="1" src="01-car.jpg" title="" >}}
 
