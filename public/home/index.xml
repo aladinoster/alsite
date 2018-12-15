@@ -36,7 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am a postdoctoral researcher in Automatic Control at the IFSTTAR Laboratory. My recent research interests include Networked Control Systems (NCS), Cyberphysical Systems (CPS), Intelligent Transportation Systems (ITS) and Artificial Intelligence (AI). Previously, I did my PhD at INRIA/CNRS with the NeCS team in development of Short-term Forecasting and estimation techniques for traffic variables. Currently, I work at LICIT group working on control techniques for connected and automated vehicles, in this team I develop traffic flow models, and traffic simulation algorithms for truck platoon strategies.</description>
+      <description>Biography I am a postdoctoral researcher in Automatic Control at the IFSTTAR Laboratory. My recent research interests include Networked Control Systems (NCS), Cyberphysical Systems (CPS), Intelligent Transportation Systems (ITS) and Artificial Intelligence (AI). Previously, I did my PhD at INRIA/CNRS with the NeCS team in development of Short-term Forecasting and estimation techniques for traffic variables. Currently, I work at LICIT group working on control techniques for connected and automated vehicles (CAV)s, in this team I develop traffic flow models, and traffic simulation algorithms for truck platoon strategies.</description>
     </item>
     
     <item>
@@ -128,15 +128,6 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/home/search/</guid>
       <description></description>
     </item>
     

@@ -15,7 +15,7 @@ background-color: {{ $header.overlay_color | default "transparent" }};
 {{ if $header.overlay_img }}
 background-image:
 {{ if $header.overlay_filter }}linear-gradient(rgba(0, 0, 0, {{ $header.overlay_filter }}), rgba(0, 0, 0, {{ $header.overlay_filter }})), {{ end }}
-url('{{ $overlay_img }}');
+url('{{ $overlay_img }}')
 {{ end }}
 ;">
 
