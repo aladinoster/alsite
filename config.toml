@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "contact@andresladino.com"
   address = "25, avenue François Mitterrand, Cité des Mobilités, Case 24 , B408, F-69675 Bron Cedex"
   office_hours = "Monday-Friday 8:00 to 17:00 or email for appointment"
-  phone = "+33 6 60 41 73 08"
+  phone = "+33 4 72 14 25 49"
   skype = "andres.ladino.86"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -102,7 +102,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
    # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
