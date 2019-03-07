@@ -76,6 +76,8 @@ image = "theme-cupcake.png"
 caption = "Cupcake"
 +++
 
+**Disclaimer:** This post was original authored by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.
+
 **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 
 Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://academic-demo.netlify.com/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
