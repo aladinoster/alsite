@@ -1,7 +1,7 @@
 +++
-title = "Display Jupyter Notebooks with Academic"
-subtitle = "Learn how to blog in Academic using Jupyter notebooks"
-summary = "Learn how to blog in Academic using Jupyter notebooks"
+title = "IPAM Workshop on Autnomous Vehicles"
+subtitle = "Details about the world of Applied Mathemathics"
+summary = "In this post I will share my experience about the my visit to UCLA in the framework of the workshop on Autonomous Vehicles"
 date = 2019-02-05T00:00:00Z
 draft = false
 
