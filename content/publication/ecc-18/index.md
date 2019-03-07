@@ -26,7 +26,7 @@ abstract = "In this paper, we consider the problem of joint reconstruction of fl
 abstract_short = "We consider the problem of joint reconstruction of flow and density in a urban traffic network using heterogeneous sources of information. The estimation problem considers two key principles. First, the error minimization between the measured and reconstructed flows and densities, and second the equilibrium state of the network which establishes flow propagation within the network."
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
