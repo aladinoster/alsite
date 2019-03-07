@@ -26,7 +26,7 @@ abstract = "This paper addresses the problem of travel time forecasting within a
 abstract_short = "A network model is proposed to infer travel time between origin and destination based on a reduced number of states. The forecast strategy is based on current day and historical data. Historical data is organized into several clusters."
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

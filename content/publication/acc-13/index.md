@@ -25,7 +25,7 @@ publication_short = "In *ACC*"
 abstract = "In this article, a method for computing a control law for discrete linear systems with variable time delays using predictive tools and stability conditions is presented. The system is written as a switched system. A state feedback is then computed for each mode using predictive control. It is shown that a nonlinear optimization problem can be formulated in order to obtain a control law which gives the best approximation of the state feedback control previously computed for each mode. This formulation ensures stability since stabilization conditions are also included through a common Lyapunov function. The optimization problem is then transformed to a problem with Bilinear Matrix Inequalities (BMI) constraints whose solution can be easily computed. Several examples show the feasibility and the efficiency of the approach."
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

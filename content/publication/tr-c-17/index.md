@@ -26,7 +26,7 @@ abstract = "This paper addresses the problem of dynamic travel time (DTT) foreca
 abstract_short = "This paper addresses the problem of dynamic travel time (DTT) forecasting within highway traffic networks using speed measurements."
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

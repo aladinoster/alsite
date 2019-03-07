@@ -26,7 +26,7 @@ abstract = "During the recent years, connected automated vehicles (CAV) have sho
 abstract_short = "This work presents an initial approach for multiple-merging strategies of platoons at network discontinuities."
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
