@@ -76,7 +76,9 @@ image = "theme-cupcake.png"
 caption = "Cupcake"
 +++
 
-**Disclaimer:** This post was original authored by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.
+**Disclaimer:** *This post was original created by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.*
+
+***
 
 **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 

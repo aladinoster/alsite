@@ -18,7 +18,9 @@
       <guid>/post/jupyter/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This post was original authored by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; &lt;em&gt;This post was original created by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
@@ -296,7 +298,9 @@ rm Untitled.md
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This post was original authored by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; &lt;em&gt;This post was original created by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
 

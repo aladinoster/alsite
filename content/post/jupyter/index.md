@@ -32,7 +32,9 @@ categories = []
   focal_point = ""
 +++
 
-**Disclaimer:** This post was original authored by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.
+**Disclaimer:** *This post was original created by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.*
+
+***
 
 ```python
 from IPython.core.display import Image
