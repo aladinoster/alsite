@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trips on Andres Ladino</title>
+    <link>/categories/trips/</link>
+    <description>Recent content in Trips on Andres Ladino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/trips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/av-ipam/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/av-ipam/</guid>
+      <description>Last week I had the amazing opportunity to visit UCLA</description>
+    </item>
+    
+  </channel>
+</rss>
