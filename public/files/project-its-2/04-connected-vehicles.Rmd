@@ -1,9 +1,0 @@
-# Project 3: Connected Vehicles
-
-## Objectives {-}
-
-This project consists in works based on [@Grandinetti2015]
-
-## Description {-}
-
-## Sources {-}

@@ -1,25 +1,25 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
-
-# Activate this widget? true/false
-active = true
+active = true  # Activate this widget? true/false
 
 title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 30
 
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# 
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+
 
 [[feature]]
   icon = "angle-double-right"

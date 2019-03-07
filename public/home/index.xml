@@ -1,48 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Andres Ladino</title>
+    <title>Homes on Academic</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Andres Ladino</description>
+    <description>Recent content in Homes on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <link>/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Demos</title>
+      <link>/home/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/demo/</guid>
+      <description>Welcome to the personal demo of Academic. Other demos available include:
+ Project Demo (Academic&amp;rsquo;s actual site)  Over 100,000 Amazing Websites have Already Been Built with Academic
+Join the Most Empowered Hugo Community
+ This homepage section is an example of adding elements to the Blank widget.
+Backgrounds can be applied to any section. Here, the background option is set give an image parallax effect.
+  </description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am a postdoctoral researcher in Automatic Control at the IFSTTAR Laboratory. My recent research interests include Networked Control Systems (NCS), Cyberphysical Systems (CPS), Intelligent Transportation Systems (ITS) and Artificial Intelligence (AI). Previously, I did my PhD at INRIA/CNRS with the NeCS team in development of Short-term Forecasting and estimation techniques for traffic variables. Currently, I work at LICIT group working on control techniques for connected and automated vehicles (CAV)s, in this team I develop traffic flow models, and traffic simulation algorithms for truck platoon strategies.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -58,45 +73,18 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks/</guid>
+      <guid>/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -105,27 +93,62 @@
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Gallery</title>
+      <link>/home/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>I was a teaching instructor for the following courses at Pontifical Xaverian University within the Electronics department:
- Dynamical Systems Principles Automatic Control Theory Automatic Control Laboratory  I am instructor for some sessions in collaboration with Angelo Furno the following courses at ENTPE:
- Intelligent Transportation Systems - Part II  </description>
+      <guid>/home/gallery/</guid>
+      <description>          </description>
     </item>
     
     <item>
-      <title>Tags</title>
+      <title>People</title>
+      <link>/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>/home/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description> Quickly discover relevant content by filtering publications.
+  </description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -134,7 +157,7 @@
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

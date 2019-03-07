@@ -5,23 +5,42 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.0.0">
-  <meta name="generator" content="Hugo 0.50" />
-  <meta name="author" content="Andres Ladino, PhD">
+  <meta name="generator" content="Source Themes Academic 4.1.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
 
   
   
   
   
+  
+    
+    
     
   
-  <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.">
+  
+
+  <meta name="author" content="Andres Ladino">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="An example talk using Academic&#39;s Markdown slides feature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/talk/example/">
 
   
 
+
+  
+
+  
+
+  
 
   
 
@@ -42,7 +61,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -53,7 +72,10 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
       
     
 
@@ -73,11 +95,25 @@
 
   
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-131060428-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Andres Ladino, Researcher">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Andres Ladino, Researcher">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Academic">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -86,40 +122,70 @@
 
   <link rel="canonical" href="/talk/example/">
 
-  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@aladinoster">
-  <meta property="twitter:creator" content="@aladinoster">
   
-  <meta property="og:site_name" content="Andres Ladino, Researcher">
-  <meta property="og:url" content="/talk/example/">
-  <meta property="og:title" content="Example Talk | Andres Ladino, Researcher">
-  <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.">
   
   
     
-  <meta property="og:image" content="/img/icon-192.png">
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Academic">
+  <meta property="og:url" content="/talk/example/">
+  <meta property="og:title" content="Example Talk | Academic">
+  <meta property="og:description" content="An example talk using Academic&#39;s Markdown slides feature."><meta property="og:image" content="/talk/example/featured.jpg">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2017-01-01T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2017-01-01T00:00:00&#43;01:00">
+  <meta property="article:modified_time" content="2030-06-01T13:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>Example Talk | Andres Ladino, Researcher</title>
+  <title>Example Talk | Academic</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
 
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Andres Ladino, Researcher</a>
+      <a class="navbar-brand" href="/">Academic</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -132,7 +198,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -147,25 +213,6 @@
           <a class="nav-link" href="/#about">
             
             <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
-            
-            <span>Publications</span>
             
           </a>
         </li>
@@ -220,6 +267,25 @@
         
 
         <li class="nav-item">
+          <a class="nav-link" href="/#featured">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link" href="/tutorial/">
             
             <span>Tutorials</span>
@@ -250,10 +316,26 @@
         
 
       
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
 
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
       </ul>
 
     </div>
@@ -277,7 +359,7 @@
 
 
 <div class="article-header d-xl-none">
-  <img src="/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg" class="article-banner" itemprop="image" alt="">
+  <div class="featured-image" style="background-image: url('/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_800x0_resize_q90_lanczos.jpg');"></div>
   <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/bzdhc5b3Bxs" target="_blank"><strong>Unsplash</strong></a></span>
 </div>
 
@@ -292,25 +374,19 @@
 
         
 
+
+
+<meta content="2030-06-01 13:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2030-06-01 13:00:00 &#43;0200 CEST" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Andres Ladino, PhD">
-  </span>
+
   
 
-  <span class="article-date">
-    
-    <meta content="2017-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2017-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      Jan 1, 2017
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Andres Ladino, PhD">
-  </span>
+  
 
   
 
@@ -322,6 +398,64 @@
   
 
 </div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/slides/example-slides/" target="_blank">
+    Slides
+  </a>
+  
+
+
+
+
+
+
+</div>
+
 
 
         
@@ -369,7 +503,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg" itemprop="image" alt="">
+        <img src="/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_lanczos_right.jpg" itemprop="image" alt="">
         <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/bzdhc5b3Bxs" target="_blank"><strong>Unsplash</strong></a></span>
       </div>
     </div>
@@ -383,35 +517,29 @@
 
   
 
+
+
+<meta content="2030-06-01 13:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2030-06-01 13:00:00 &#43;0200 CEST" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Andres Ladino, PhD">
-  </span>
+
   
 
-  <span class="article-date">
+  
+
+  
+
+  
+  
+
+  
+
+  
     
-    <meta content="2017-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2017-01-01 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      Jan 1, 2017
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Andres Ladino, PhD">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-  
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
@@ -455,6 +583,63 @@
   
 
 </div>
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/slides/example-slides/" target="_blank">
+    Slides
+  </a>
+  
+
+
+
+
+
+
+</div>
+
 
 </div>
 
@@ -520,53 +705,14 @@
     <div class="d-md-none space-below"></div>
     
 
-    
-    <div class="row" style="padding-top: 10px">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading" style="line-height:34px;">Links</div>
-          <div class="col-12 col-md-9">
-
-            
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/talk/example/slides/example-slides" target="_blank">
-  Slides
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/internal-project/">
-    Project
-  </a>
-  
-
-
-
-
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
     <div class="space-below"></div>
 
     <div class="article-style">
       <div class="alert alert-note">
-  <p>Click on the <strong>Slides</strong> button above to view the built-in slides feature.</p>
+  <div>
+    <p>Click on the <strong>Slides</strong> button above to view the built-in slides feature.</p>
 
+  </div>
 </div>
 
 
@@ -594,14 +740,24 @@
 
 
 
+  
+
+
+
+
+
+
+
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/portrait.jpg" itemprop="image" alt="Avatar">
   
+  <img class="portrait mr-3" src="/author/admin/avatar_hu15579f68064bfecb1c2ddfd0fdb8b003_237400_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+  
+
   <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Andres Ladino, PhD</a></h5>
+    <h5 class="card-title" itemprop="name"><a href="/authors/admin">Andres Ladino</a></h5>
     <h6 class="card-subtitle">Postdoctoral Researcher</h6>
-    
+    <p class="card-text" itemprop="description">My research interests include distributed control, networked control systems and machine learning.</p>
     <ul class="network-icon" aria-hidden="true">
       
       
@@ -789,17 +945,16 @@
     
     
     
-    
-    <script src="/js/mathjax-config.500a6cbb2c0f345fcecc21b3116d6637aa78f1f11db8081ea581abe05390c2e8f3bbffe61be3cf0217baf785c40efceabe51050a4f007e69af94efd3643260e8.js" integrity="sha512-UApsuywPNF/OzCGzEW1mN6p48fEduAgepYGr4FOQwujzu//mG&#43;PPAhe694XEDvzqvlEFCk8AfmmvlO/TZDJg6A=="></script>
+    <script src="/js/mathjax-config.js"></script>
     
 
     
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
@@ -812,9 +967,6 @@
       
       <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
-    
-
-    <script src="/js/hugo-academic.js"></script>
     
 
     
@@ -835,7 +987,7 @@
       const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
-        'results': "Search Results",
+        'results': "results found",
         'no_results': "No results found"
       };
       const content_type = {
@@ -869,11 +1021,24 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    <script src="/js/search.js"></script>
     
 
     
     
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d7381f2d79e6271d4da28f474f49096c.js"></script>
 
   </body>
 </html>

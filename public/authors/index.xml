@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academic</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alain Kibangou</title>
+      <link>/authors/alain-kibangou/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/alain-kibangou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andres Ladino</title>
+      <link>/authors/andres-ladino/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/andres-ladino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canudas-de-Wit C.</title>
+      <link>/authors/canudas-de-wit-c./</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/canudas-de-wit-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Canudas-de-Wit</title>
+      <link>/authors/carlos-canudas-de-wit/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/carlos-canudas-de-wit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duret A.</title>
+      <link>/authors/duret-a./</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/duret-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourati H.</title>
+      <link>/authors/fourati-h./</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/fourati-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hassen Fourati</title>
+      <link>/authors/hassen-fourati/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/hassen-fourati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kibangou A.</title>
+      <link>/authors/kibangou-a./</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/kibangou-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ladino A.</title>
+      <link>/authors/ladino-a./</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ladino-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patino D.</title>
+      <link>/authors/patino-d./</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/patino-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang M.</title>
+      <link>/authors/wang-m./</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/wang-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

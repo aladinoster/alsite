@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/post/jupyter/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/2018-12-05-slides-its-2/</loc>
+      <lastmod>2018-12-12T21:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2018-12-05-slides-its-2/</loc>
       <lastmod>2018-12-12T21:00:00-05:00</lastmod>
     </url>
@@ -44,14 +60,6 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/ensemble/</loc>
       <lastmod>2018-11-10T00:00:00+01:00</lastmod>
     </url>
@@ -62,6 +70,14 @@
     
       <loc>/project/speed/</loc>
       <lastmod>2018-11-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -92,40 +108,8 @@
     
     <url>
     
-      <loc>/talk/ipam/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/tr-c-17/</loc>
       <lastmod>2017-10-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -156,8 +140,31 @@
     
     <url>
     
+      <loc>/talk/ipam/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/acc-13/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/admin/</loc>
     </url>
     
   
@@ -182,6 +189,15 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -191,8 +207,52 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <loc>/authors/alain-kibangou/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/andres-ladino/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/canudas-de-wit-c./</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/carlos-canudas-de-wit/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -235,8 +295,35 @@
     
     <url>
     
+      <loc>/authors/duret-a./</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/english/</loc>
       <lastmod>2018-12-12T21:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fourati-h./</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hassen-fourati/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -262,9 +349,44 @@
     
     <url>
     
+      <loc>/authors/kibangou-a./</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ladino-a./</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/machine-learning/</loc>
       <lastmod>2018-11-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/patino-d./</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -298,8 +420,16 @@
     
     <url>
     
+      <loc>/publication/</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/r/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -308,8 +438,16 @@
     <url>
     
       <loc>/tags/r-markdown/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2015-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -421,8 +559,26 @@
     
     <url>
     
+      <loc>/authors/wang-m./</loc>
+      <lastmod>2018-11-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/plot/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -431,7 +587,7 @@
     <url>
     
       <loc>/tags/regression/</loc>
-      <lastmod>2018-11-10T21:13:14-05:00</lastmod>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,15 +1,14 @@
 ---
-title: "Tools for Research reproducibility"
-author: "Andres Ladino"
-date: 2018-11-10T21:13:14-05:00
-categories: ["R","English"]
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-
 
 # R Markdown
 
