@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 18:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IPAM Workshop on Autonomous Vehicles</title>
+      <link>/post/av-ipam/</link>
+      <pubDate>Tue, 05 Mar 2019 18:00:00 +0000</pubDate>
+      
+      <guid>/post/av-ipam/</guid>
+      <description>&lt;p&gt;Last week I had the amazing opportunity to visit UCLA&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -74,16 +84,6 @@ rm Untitled.md
 &lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
 
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IPAM Workshop on Autnomous Vehicles</title>
-      <link>/post/av-ipam/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/av-ipam/</guid>
-      <description>&lt;p&gt;Last week I had the amazing opportunity to visit UCLA&lt;/p&gt;
 </description>
     </item>
     

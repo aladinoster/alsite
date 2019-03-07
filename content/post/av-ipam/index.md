@@ -1,8 +1,8 @@
 +++
-title = "IPAM Workshop on Autnomous Vehicles"
+title = "IPAM Workshop on Autonomous Vehicles"
 subtitle = "Details about the world of Applied Mathemathics"
 summary = "In this post I will share my experience about the my visit to UCLA in the framework of the workshop on Autonomous Vehicles"
-date = 2019-02-05T00:00:00Z
+date = 2019-03-05T18:00:00Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
