@@ -25,12 +25,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Connected & Automated Vehicles"
+    tag = "Connected & Automated Vehicles"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Short Term Forecast"
+    tag = "Short Term Forecast"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
