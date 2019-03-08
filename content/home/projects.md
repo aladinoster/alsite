@@ -25,8 +25,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Connected & Automated Vehicles"
-    tag = "Connected & Automated Vehicles"
+    name = "Truck Platooning"
+    tag = "Truck Platooning"
   
   [[content.filter_button]]
     name = "Short Term Forecast"
