@@ -1,12 +1,11 @@
 +++
 title = "Travel time forecasting from clustered time series via optimal filtering fusion"
-date = 2015-10-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-10-16T11:00:00
-time_end = 2015-10-16T12:00:00
+date = 2015-10-16T11:00:00
+date_end = 2015-10-16T12:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -62,5 +61,5 @@ math = true
 +++
 
 {{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Video** button above to view the presentation done at that time. My talk is at the end of the list.
 {{% /alert %}}
