@@ -7,6 +7,10 @@ draft = false
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2015-10-16T11:00:00
 time_end = 2015-10-16T12:00:00
+all_day = false
+
+# Schedule page publish date (NOT talk date).
+publishDate = 2015-10-20T20:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andres Ladino", "Alain Kibangou", "Hassen Fourati", "Carlos Canudas-de-Wit"]
@@ -23,7 +27,7 @@ event_url = "https://www.ipam.ucla.edu/programs/workshops/workshop-ii-traffic-es
 location = "Los Angeles, USA"
 
 # Is this a selected talk? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -31,16 +35,16 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["external-project"]
+projects = ["speed"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Kalman","Short Term Forecast"]
 
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "http://www.ipam.ucla.edu/programs/workshops/workshop-ii-traffic-estimation/?tab=schedule&amp;wvideo=hanbzt12nu"
 url_code = ""
 
 # Does the content use math formatting?
@@ -56,3 +60,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
