@@ -26,3 +26,5 @@ external_link = "https://www.tno.nl/en/about-tno/news/2018/2/multi-brand-truck-p
   focal_point = "Smart"
 
 +++
+
+The ENSEMBLE consortium will implement and demonstrate multi-brand truck platooning on European roads over the next three years. This paves the way for the adoption of multi-brand truck platooning in Europe that will improve fuel economy, CO2 emissions, traffic capacity and throughput for the road freight sector.

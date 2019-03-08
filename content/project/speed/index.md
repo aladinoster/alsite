@@ -26,3 +26,5 @@ external_link = "http://speedd-project.eu"
   focal_point = "Smart"
 
 +++
+
+Eliminating or mitigating an anticipated problem, or capitalizing on a forecast opportunity, can substantially improve our quality of life, and prevent environmental and economic damage. At the environmental level, changing traffic-light priority and speed limits to avoid traffic congestions will reduce carbon emissions, optimize transportation and increase the productivity of commuters. At the business level, making smart decisions ahead of time can become a differentiator leading to significant competitive advantage.
