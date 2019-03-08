@@ -1,7 +1,7 @@
 +++
 title = "IPAM Workshop on Autonomous Vehicles"
 subtitle = "Details about the world of Applied Mathemathics"
-summary = "In this post I will share my experience about the my visit to UCLA in the framework of the workshop on Autonomous Vehicles"
+summary = "Check my experiences on my recent visit to IPAM/UCLA for the workshop on Autonomous Vehicles"
 date = 2019-03-05T18:00:00Z
 draft = false
 
@@ -19,7 +19,7 @@ categories = ["Trips","English"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+projects = []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
