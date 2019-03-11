@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   company_url = "http://www.ifsttar.fr/en/welcome/"
   location = "Lyon, France"
   date_start = "2018-01-01"
-  date_end = "2019-12-31"
+  date_end = "2020-12-31"
   description = """Postdoctoral Researcher for projects C-The Difference, ENSEMBLE
 
   * Traffic Simulation 
