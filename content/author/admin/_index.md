@@ -19,7 +19,7 @@ role = "Postdoctoral Researcher"
 bio = "My research interests include distributed control, networked control systems and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "contact@andresladino.com"
 
 # List (academic) interests or hobbies
 interests = [
