@@ -42,13 +42,13 @@ tags =  ["Truck Platooning","Connected & Automated Vehicles", "Vehicle Merging"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/aladino_javeriana_edu_co/ESy6QDzqE_1DikCC8_b0IMEBT-oQT_6un8JOCnrgfy5Dgw?e=g9aMl6"
+url_preprint = "http://bit.ly/ISTTT-2019"
 url_code = "https://github.com/research-licit/Hierarchical-Platooning/tree/master/Operational"
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/aladino_javeriana_edu_co/EQZE3k60YpBPgmDByqTXJwwBtnoMp37wvdDBq8dNgHmPYA?e=ox8nW4"
+url_poster = "http://bit.ly/PosterIPAM2019"
 url_source = ""
 
 # Custom links (optional).
