@@ -40,8 +40,8 @@ projects = ["speed"]
 tags =  ["Short Term Forecast","Sensor Fusion", "Clustering","Kalman","Traffic Estimation"]
 
 # Links (optional).
-url_pdf = "https://livejaverianaedu-my.sharepoint.com/:b:/g/personal/aladino_javeriana_edu_co/ETAue74v_bhPjV0_-Ix1tu4BlH1DdS_vR0umhlLRb0XCuA?e=Ndv7Pn"
-url_preprint = "https://tel.archives-ouvertes.fr/tel-01867240/document"
+url_pdf = "http://bit.ly/PhD-Thesis-AL"
+url_preprint = ""
 url_code = ""
 url_dataset = "https://data.mendeley.com/datasets/tf483zkcmb/3"
 url_project = ""
