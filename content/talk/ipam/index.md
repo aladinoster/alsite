@@ -15,7 +15,7 @@ publishDate = 2015-10-20T20:00:00
 authors = ["Andres Ladino", "Alain Kibangou", "Hassen Fourati", "Carlos Canudas-de-Wit"]
 
 # Abstract and optional shortened version.
-abstract = "This talk summarizes the problem of travel time forecasting within a highway. Several measurements are cap- tured describing travel times for multiple origin-destination (OD) pairs. A network model is then proposed to infer travel time between origin and destination based on a reduced number of states. The forecast strategy is based on current day and historical data. Historical data is organized into several clusters. For each cluster, a predictor is designed based on the Kalman filtering strategy. Then these predictions are fused, in a best linear unbiased estimation sense, in order to get the best prediction."
+abstract = "This talk summarizes the problem of travel time forecasting within a highway. Several measurements are captured describing travel times for multiple origin-destination (OD) pairs. A network model is then proposed to infer travel time between origin and destination based on a reduced number of states. The forecast strategy is based on current day and historical data. Historical data is organized into several clusters. For each cluster, a predictor is designed based on the Kalman filtering strategy. Then these predictions are fused, in a best linear unbiased estimation sense, in order to get the best prediction."
 abstract_short = "Travel time shor-term forecasting in highways."
 
 # Name of event and optional event URL.
