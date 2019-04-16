@@ -18,15 +18,15 @@ authors = ["Duret A.","Wang M.", "Ladino A."]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *23rd International Symposium on Transportation and Traffic Theory (ISTTT)*."
-publication_short = "In *ISTTT*"
+publication = "In *Transportation Research Part B* - *23rd International Symposium on Transportation and Traffic Theory (ISTTT)*."
+publication_short = "In *TR-B* / *ISTTT*"
 
 # Abstract and optional shortened version.
 abstract = "Truck platooning has attracted substantial attention due to its pronounced benefits in saving energy and promising business model in freight transportation. However, one prominent challenge for the successful implementation of truck platooning is the safe and efficient interaction with surrounding traffic, especially at network discontinuities where mandatory lane changes may lead to the decoupling of truck platoons. This contribution puts forward an efficient method for splitting a platoon of vehicles near network merges. A model-based bi-level control strategy is proposed. A supervisory tactical strategy based on a first-order car-following model with bounded acceleration is designed to maximize the flow at merge discontinuities. The decisions taken at this level include optimal vehicle order after the merge, new equilibrium gaps of automated trucks at the merging point, and anticipation horizon that the platoon members start to track the new equilibrium gaps. The lower-level operational layer uses a third-order longitudinal dynamics model to compute the optimal truck accelerations so that new equilibrium gaps have been created when merging vehicles start to change lane and the transient maneuvers are efficient, safe and comfortable. The tactical decisions are derived from an analytic car-following model and the operational accelerations are controlled via model predictive control with guaranteed stability. Simulation experiments are provided in order to test the feasibility and demonstrate the performance and robustness of the proposed strategy."
 abstract_short = "This contribution puts forward an efficient method for splitting a platoon of vehicles near network merges."
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -41,7 +41,7 @@ projects = ["ensemble"]
 tags =  ["Truck Platooning","Connected & Automated Vehicles", "Vehicle Merging"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://bit.ly/TR-B2019"
 url_preprint = "http://bit.ly/ISTTT-2019"
 url_code = "https://github.com/research-licit/Hierarchical-Platooning/tree/master/Operational"
 url_dataset = ""
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.trb.2019.04.006"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
