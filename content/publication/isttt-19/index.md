@@ -15,7 +15,7 @@ authors = ["Duret A.","Wang M.", "Ladino A."]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Transportation Research Part B* - *23rd International Symposium on Transportation and Traffic Theory (ISTTT)*."
@@ -69,6 +69,6 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "TopLeft"
 +++
 
