@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Switched Systems","Predictive Control","Delayed Systems"]
+tags = ["Switched Systems","Predictive Control","Time delayed Systems"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/6580333/"

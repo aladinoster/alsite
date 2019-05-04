@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Skills"
 subtitle = ""
@@ -45,12 +45,6 @@ weight = 30
   icon_pack = "fab"
   name = "R"
   description = "Advanced: Tidyverse"
-  
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Version control"
-  description = "Advanced"
   
 [[feature]]
   icon = "chart-bar"

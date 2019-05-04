@@ -84,6 +84,11 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://github.com/aladinoster"
 
+[[social]]
+  icon = "award"
+  icon_pack = "fas"
+  link = "https://www.datacamp.com/profile/aladinoster"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
