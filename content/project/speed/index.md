@@ -13,7 +13,7 @@ summary = "SPEEDD developed a prototype for proactive event-driven decision-maki
 tags = ["Short Term Forecast", "Machine Learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://speedd-project.eu"
+external_link = "http://bit.ly/SpeeddEU"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

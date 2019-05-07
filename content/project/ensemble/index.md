@@ -13,7 +13,7 @@ summary = "Truck platooning has a great potential to improve road safety, reduce
 tags = ["Truck Platooning", "Connected & Automated Vehicles"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.tno.nl/en/about-tno/news/2018/2/multi-brand-truck-platooning-will-become-a-reality-in-europe-thanks-to-the-eu-co-funded-ensemble-project/"
+external_link = "http://bit.ly/EnsemblePlatoonEU"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
